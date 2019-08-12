@@ -1,5 +1,6 @@
 # InternshipRepository
 Amdaris QA Internship 2019
+![c# image](https://csharp-station.com/wp-content/uploads/2016/07/Ref-Parameters-vs-Out-Parameters-in-C-1200x675.jpg)
 Homework #1
 1. Sa se introduca de la tastatura varsta persoanei, iar la ecran sa apara grupa in care se incadreaza aceasta, tinandu-se cont de urmatoarele conditii:
 	0-14 ani - neangajat;
